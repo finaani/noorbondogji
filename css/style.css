@@ -1,6 +1,6 @@
 
 body {
-		background: #add8e6;
+		background: #ffffff;
     font-family: 'Work Sans', sans-serif;
     font-style: normal;
 		font-weight: 300;
@@ -178,7 +178,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 .navbar-default {
-    background: #add8e6;
+    background: #ffffff;
     padding: 18px 0;
     border: none;
     margin-top: 62px;
